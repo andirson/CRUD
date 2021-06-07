@@ -16,7 +16,7 @@ CREATE TABLE tarea_crud(
 );
 
 insert into tarea_crud(nombre, apellido, cedula, usuario, estado, contrasena, rol) 
-values('Anderson', 'Castaneda','1144133156','andirson','Activo','ander123','Administrador');
+values('Anderson', 'Castaneda','8455525562','andirson','Activo','ander123','Administrador');
 
 insert into tarea_crud(nombre, apellido, cedula, usuario, estado, contrasena, rol) 
 values('Homero', 'Simpson','1122334455','jsimpson','Inactivo','ouch123','Usuario');
