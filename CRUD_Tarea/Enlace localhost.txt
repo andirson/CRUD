@@ -1,1 +1,0 @@
-http://localhost:90/Geoinformacion/CRUD_Tarea/
